@@ -1,0 +1,1 @@
+instance_create_depth(x,y,-12000,obj_roomTrans);
